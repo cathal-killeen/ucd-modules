@@ -1,0 +1,63 @@
+:global(body) {
+  position: relative;
+
+
+}
+
+@media (max-width: 767px) {
+  #searchbar {
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  #searchbar {
+    width: 660px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  #searchbar {
+    width: 550px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #searchbar {
+    width: 700px;
+  }
+}
+
+.circle-img {
+  overflow: hidden;
+}
+
+.circle-img-portrait img {
+  width: 100%;
+  transform: translateY(-15%);
+  margin-top: 15%;
+}
+
+.circle-img-landscape img {
+  height: 100%;
+  transform: translateX(-50%);
+  margin-left: 50%;
+}
+
+#dropdown-user-info > span.caret {
+  display: none;
+}
+
+#dropdown-user-info::after {
+  display: none;
+}
+
+// react-slick carousel
+// .slides .slick-prev,
+// .slides .slick-next {
+//   position: absolute;
+//   top: 50%;
+//   z-index: 1;
+// }
+
+

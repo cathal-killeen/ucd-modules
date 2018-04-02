@@ -1,0 +1,31 @@
+{
+  "name": "data_generate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "async": "^2.6.0",
+    "axios": "^0.17.1",
+    "csv-parse": "^2.0.0",
+    "fs": "0.0.1-security",
+    "gm": "^1.23.1",
+    "html-to-json": "^0.6.0",
+    "image-size": "^0.6.2",
+    "images-scraper": "^2.0.11",
+    "mongodb": "^3.0.4",
+    "neo4j": "^2.0.0-RC2",
+    "neo4j-driver": "^1.5.0",
+    "node-rake": "0.0.9",
+    "node-vibrant": "^3.0.0",
+    "pg": "^7.4.1",
+    "promise": "^8.0.1",
+    "request": "^2.83.0",
+    "request-image-size": "^2.1.0"
+  }
+}
