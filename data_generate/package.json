@@ -12,7 +12,7 @@
     "assert": "^1.4.1",
     "async": "^2.6.0",
     "axios": "^0.17.1",
-    "csv-parse": "^2.0.0",
+    "csv-parse": "^4.4.6",
     "fs": "0.0.1-security",
     "gm": "^1.23.1",
     "html-to-json": "^0.6.0",
