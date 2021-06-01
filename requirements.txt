@@ -85,6 +85,6 @@ SQLAlchemy==1.0.14
 sqlautocode==0.7
 toolz==0.8.0
 Unidecode==1.0.22
-urllib3==1.22
+urllib3==1.26.5
 Werkzeug==0.12.2
 wrapt==1.10.11
