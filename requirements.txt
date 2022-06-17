@@ -86,5 +86,5 @@ sqlautocode==0.7
 toolz==0.8.0
 Unidecode==1.0.22
 urllib3==1.22
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 wrapt==1.10.11
